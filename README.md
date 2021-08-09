@@ -6,7 +6,7 @@ I like writing, teaching and sharing my knowledge with other engineers.
 
 - 🔭 I’m currently working at [League](https://www.league.com) as a Senior Software Engineer
 - 💬 Ask me about Android, Node, Software design, Design patterns, TDD or anything software related :)
-- ⚡ Useful Link: [Github](https://github.com/farazhassan), [Twitter](https://wwww.twitter.com/_farazhassan), [Facebook](https://www.facebook.com/farazhassan), [Linkedin](https://www.linkedin.com/in/faraz-hassan/)
+- ⚡ Useful Links: [Github](https://github.com/farazhassan), [Twitter](https://wwww.twitter.com/_farazhassan), [Facebook](https://www.facebook.com/farazhassan), [Linkedin](https://www.linkedin.com/in/faraz-hassan/)
 
 <!--
 **farazhassan/farazhassan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
