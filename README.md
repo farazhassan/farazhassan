@@ -5,7 +5,7 @@ I love mobile apps, distributed systems and the challenges associated with them.
 I like writing, teaching and sharing my knowledge with other engineers.
 
 - 🔭 I’m currently working at [League](https://www.league.com) as a Senior Software Engineer
-- 💬 Ask me about Android, Node, Software design, Design patterns, TDD or anything software related :)
+- 💬 Ask me about Golang, Android, Node, Software design, Design patterns, TDD or anything software related :)
 - ⚡ Useful Links: [Github](https://github.com/farazhassan), [Twitter](https://wwww.twitter.com/_farazhassan), [Facebook](https://www.facebook.com/farazhassan), [Linkedin](https://www.linkedin.com/in/faraz-hassan/)
 
 <!--
